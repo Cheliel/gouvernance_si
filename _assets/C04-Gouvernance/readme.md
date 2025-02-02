@@ -6,7 +6,7 @@
 
 ### 2 - La gouvernance des systèmes d'information (DSI)
 
-La DSI est aujourd'hui central dans la gestino d'une entreprise. Elle se doit de comprendre les logique métier qu'elle met en oeuvre. Il n'est plus possible d'avoir des actifs non répertorié. 
+La DSI est aujourd'hui central dans la gestinon d'une entreprise. Elle se doit de comprendre les logique métier qu'elle met en oeuvre. Il n'est plus possible d'avoir des actifs non répertorié. 
 
 ### 3 - La direction des système d'information et du numérique (DSNI)
 
